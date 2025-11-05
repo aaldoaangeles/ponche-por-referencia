@@ -1,3 +1,5 @@
+<br><br><br>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=44&duration=2300&pause=800&color=FF4D4D&center=true&vCenter=true&width=900&lines=%F0%9F%8E%84+POSADA+PULL+%26+PONCHE+%F0%9F%8E%84;%F0%9F%92%BB+ROMPEME+LA+RAM+%F0%9F%8E%85;%F0%9F%8E%A7+ARRIMON+DE+BUFFER+%F0%9F%8E%81;%F0%9F%8D%B7+PONCHE+POR+REFERENCIA+%E2%9C%A8" alt="POSADA PULL & PONCHE Typing SVG" />
 </p>
@@ -14,15 +16,15 @@
   </a>
 </p>
 
-<h2 align="center">Ponche por Referencia · Evento 2025</h2>
-
-## 🗓️ Información del Evento
+<h2 align="center">Ponche por Referencia · Posada 2025</h2>
 
 <div align="center">
 
+## 🗓️ Información del Evento
+
 |                   **Cuándo**                   | **Dónde**                                                                                                                                                                                                                                        | **Dress Code**                                |
 | :--------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
-| **Sábado 13 de Diciembre 2025<br> 16:00 – ¿?** | 4 minutos de [**Francisco Goitia, Xochimilco, CDMX**](https://www.google.com/maps/place/Francisco+Goitia/@19.2608769,-99.1120638,18.75z/data=!4m6!3m5!1s0x85ce015b200379d1:0xa7987803d729a4bb!8m2!3d19.2607312!4d-99.1112654!16s%2Fg%2F121hfgb_) | **Temática navideña para shot de bienvenida** |
+| **Sábado 13 de Diciembre 2025<br> 18:00 – 4:00** | 4 minutos de [**Francisco Goitia, Xochimilco, CDMX**](https://www.google.com/maps/place/Francisco+Goitia/@19.2608769,-99.1120638,18.75z/data=!4m6!3m5!1s0x85ce015b200379d1:0xa7987803d729a4bb!8m2!3d19.2607312!4d-99.1112654!16s%2Fg%2F121hfgb_) | **Temática navideña para shot de bienvenida** |
 
 </div>
 
@@ -72,10 +74,48 @@
 ## 💬 Grupo oficial del evento
 
 > Canal exclusivo para actualizaciones, coordinación y avisos importantes previos al evento.
+<br><br>
+<style>
+.boton-whatsapp {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  background-color: #25D366; /* Verde WhatsApp */
+  color: white;
+  font-weight: bold;
+  padding: 20px 70px;
+  border-radius: 14px;
+  text-decoration: none;
+  font-size: 22px;
+  letter-spacing: 0.5px;
+  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.5);
+  animation: pulse 1.6s infinite;
+  transition: transform 0.2s ease;
+}
+
+.boton-whatsapp:hover {
+  transform: scale(1.08);
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.5); }
+  50% { transform: scale(1.07); box-shadow: 0 0 25px 10px rgba(37, 211, 102, 0.4); }
+  100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.5); }
+}
+
+.boton-whatsapp:active,
+.boton-whatsapp:focus {
+  background-color: #25D366;
+  color: white;
+  outline: none;
+}
+</style>
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/Jn9L7tkqsHoFx52KFhnBd4" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-GRUPO_OFICIAL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Group Badge">
+  <a class="boton-whatsapp" href="https://chat.whatsapp.com/Jn9L7tkqsHoFx52KFhnBd4" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="32" height="32">
+    ÚNETE AL GRUPO OFICIAL
   </a>
 </p>
 
@@ -83,9 +123,10 @@
 
 ## 🎯 Incluye
 
-- **Entretenimiento:** DJ sorpresa, karaoke, concursos.
-- **Seguridad:** Revisión al ingreso y personal dentro y fuera del recinto.
-- **Comodidad:** Baños limpios por género.
+- **Entretenimiento:** DJ sorpresa, piñatas, karaoke, concursos.
+- **Seguridad:** Revisión al ingreso. Personal dentro y fuera del recinto.
+- **Comodidad:** Baños limpios por género, luz negra, buen sonido, carpa para las lluvias y buen ambiente. 
+- **Bebidas:** Mojito de cortesía, agua purificada. 
 
 ---
 
@@ -96,8 +137,9 @@
 - cero agravios
 - cateo al entrar para mayor seguridad
 - no mala copas
-- traer pisto al gusto
+- traer pisto al gusto 
 - aburridos en su casa
+- cada quién es responsable de sus pertenencias
 
 ---
 
@@ -107,7 +149,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,typescript,java,cpp,go,swift,html,css,bash,linux,git,github,react,nodejs,mysql,postgres,docker&perline=9" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=ableton,activitypub,actix,adonis,ae,aiscript,alpinejs,anaconda,androidstudio,angular,ansible,apollo,apple,appwrite,arch,arduino,astro,atom,au,autocad,aws,azul,azure,babel,bash,bevy,bitbucket,blender,bootstrap,bsd,bun,c,cs,cpp,crystal,cassandra,clion,clojure,cloudflare,cmake,codepen,coffeescript,css,cypress,d3,dart,debian,deno,devto,discord,bots,discordjs,django,docker,dotnet,dynamodb,eclipse,elasticsearch,electron,elixir,elysia,emacs,ember,emotion,express,fastapi,fediverse,figma,firebase,flask,flutter,forth,fortran,gamemakerstudio,gatsby,gcp,git,github,githubactions,gitlab,gmail,gherkin,go,gradle,godot,grafana,graphql,gtk,gulp,haskell,haxe,haxeflixel,heroku,hibernate,html,htmx,idea,ai,instagram,ipfs,java,js,jenkins,jest,jquery,kafka,kali,kotlin,ktor,kubernetes,laravel,latex,less,linkedin,linux,lit,lua,md,mastodon,materialui,matlab,maven,mint,misskey,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nim,nix,nodejs,notion,npm,nuxtjs,obsidian,ocaml,octave,opencv,openshift,openstack,p5js,perl,ps,php,phpstorm,pinia,pkl,plan9,planetscale,pnpm,postgres,postman,powershell,pr,prisma,processing,prometheus,pug,pycharm,py,pytorch,qt,r,rabbitmq,rails,raspberrypi,react,reactivex,redhat,redis,redux,regex,remix,replit,rider,robloxstudio,rocket,rollupjs,ros,ruby,rust,sass,spring,sqlite,stackoverflow,styledcomponents,sublime,supabase,scala,sklearn,selenium,sentry,sequelize,sketchup,solidity,solidjs,svelte,svg,swift,symfony,tailwind,tauri,tensorflow,terraform,threejs,twitter,ts,ubuntu,unity,unreal,v,vala,vercel,vim,visualstudio,vite,vitest,vscode,vscodium,vue,vuetify,wasm,webflow,webpack,webstorm,windicss,windows,wordpress,workers,xd,yarn,yew,zig&perline=12" alt="All Supported Skill Icons" />
   </a>
 </p>
 
