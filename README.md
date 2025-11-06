@@ -75,46 +75,13 @@
 
 > Canal exclusivo para actualizaciones, coordinación y avisos importantes previos al evento.
 <br><br>
-<style>
-.boton-whatsapp {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 12px;
-  background-color: #25D366; /* Verde WhatsApp */
-  color: white;
-  font-weight: bold;
-  padding: 20px 70px;
-  border-radius: 14px;
-  text-decoration: none;
-  font-size: 22px;
-  letter-spacing: 0.5px;
-  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.5);
-  animation: pulse 1.6s infinite;
-  transition: transform 0.2s ease;
-}
-
-.boton-whatsapp:hover {
-  transform: scale(1.08);
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.5); }
-  50% { transform: scale(1.07); box-shadow: 0 0 25px 10px rgba(37, 211, 102, 0.4); }
-  100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.5); }
-}
-
-.boton-whatsapp:active,
-.boton-whatsapp:focus {
-  background-color: #25D366;
-  color: white;
-  outline: none;
-}
-</style>
-
 <p align="center">
-  <a class="boton-whatsapp" href="https://chat.whatsapp.com/Jn9L7tkqsHoFx52KFhnBd4" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="32" height="32">
+  <a href="https://chat.whatsapp.com/Jn9L7tkqsHoFx52KFhnBd4" target="_blank" 
+     style="background-color:#25D366;color:white;padding:14px 40px;border-radius:10px;
+            text-decoration:none;font-weight:bold;font-size:20px;display:inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
+         alt="WhatsApp" width="24" height="24" 
+         style="vertical-align:middle;margin-right:10px;">
     ÚNETE AL GRUPO OFICIAL
   </a>
 </p>
