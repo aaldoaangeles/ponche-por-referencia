@@ -88,7 +88,7 @@
   </a>
 </p>
 
-
+## QR del repo para compartir 👾
 <p align="center">
   <img src="assets/qr/whatsapp-qr.png" alt="QR WhatsApp Grupo Oficial" width="180">
 </p>
