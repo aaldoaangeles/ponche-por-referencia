@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Únete al grupo oficial de WhatsApp">
+  <!-- Background -->
+  <rect x="5" y="5" width="890" height="190" rx="28" fill="#25D366"/>
+  <!-- Subtle border -->
+  <rect x="5" y="5" width="890" height="190" rx="28" fill="none" stroke="#1fa955" stroke-width="6"/>
+  <!-- Simple chat bubble icon (generic, no marca) -->
+  <g transform="translate(70,50)">
+    <rect x="0" y="0" width="120" height="90" rx="18" fill="#ffffff"/>
+    <polygon points="36,90 64,90 56,118" fill="#ffffff"/>
+    <!-- “W” hint inside -->
+    <path d="M22,30 l12,36 l12,-36 l12,36 l12,-36" fill="none" stroke="#25D366" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Text -->
+  <g font-family="Inter,Segoe UI,Arial,Helvetica,sans-serif" fill="#ffffff">
+    <text x="520" y="85" font-size="42" font-weight="700" text-anchor="middle">ÚNETE AL GRUPO OFICIAL</text>
+    <text x="520" y="135" font-size="28" font-weight="500" text-anchor="middle">WhatsApp</text>
+  </g>
+</svg>

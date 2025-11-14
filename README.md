@@ -77,15 +77,11 @@
 > <br><br>
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/Jn9L7tkqsHoFx52KFhnBd4" target="_blank" 
-     style="background-color:#25D366;color:white;padding:14px 40px;border-radius:10px;
-            text-decoration:none;font-weight:bold;font-size:20px;display:inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
-         alt="WhatsApp" width="24" height="24" 
-         style="vertical-align:middle;margin-right:10px;">
-    ÚNETE AL GRUPO OFICIAL
+  <a href="https://chat.whatsapp.com/Jn9L7tkqsHoFx52KFhnBd4">
+    <img src="assets/buttons/whatsapp-btn.svg" alt="Únete al grupo oficial de WhatsApp" height="64">
   </a>
 </p>
+
 
 ---
 
