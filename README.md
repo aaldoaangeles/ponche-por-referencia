@@ -22,8 +22,8 @@
 
 ## 🗓️ Información del Evento
 
-|                   **Cuándo**                   | **Dónde**                                                                                                                                                                                                                                        | **Dress Code**                                |
-| :--------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+|                    **Cuándo**                    | **Dónde**                                                                                                                                                                                                                                        | **Dress Code**                                |
+| :----------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
 | **Sábado 13 de Diciembre 2025<br> 18:00 – 4:00** | 4 minutos de [**Francisco Goitia, Xochimilco, CDMX**](https://www.google.com/maps/place/Francisco+Goitia/@19.2608769,-99.1120638,18.75z/data=!4m6!3m5!1s0x85ce015b200379d1:0xa7987803d729a4bb!8m2!3d19.2607312!4d-99.1112654!16s%2Fg%2F121hfgb_) | **Temática navideña para shot de bienvenida** |
 
 </div>
@@ -74,7 +74,8 @@
 ## 💬 Grupo oficial del evento
 
 > Canal exclusivo para actualizaciones, coordinación y avisos importantes previos al evento.
-<br><br>
+> <br><br>
+
 <p align="center">
   <a href="https://chat.whatsapp.com/Jn9L7tkqsHoFx52KFhnBd4" target="_blank" 
      style="background-color:#25D366;color:white;padding:14px 40px;border-radius:10px;
@@ -90,10 +91,12 @@
 
 ## 🎯 Incluye
 
+- **Comida:** Taquiza de **pastor** alrededor de **7 u 8 pm**.
 - **Entretenimiento:** DJ sorpresa, piñatas, karaoke, concursos.
 - **Seguridad:** Revisión al ingreso. Personal dentro y fuera del recinto.
-- **Comodidad:** Baños limpios por género, luz negra, buen sonido, carpa para las lluvias y buen ambiente. 
-- **Bebidas:** Mojito de cortesía, agua purificada. 
+- **Comodidad:** Baños limpios por género, luz negra, buen sonido, carpa para las lluvias y buen ambiente.
+- **Bebidas:** Mojito de cortesía, agua purificada.
+
 
 ---
 
@@ -104,7 +107,7 @@
 - cero agravios
 - cateo al entrar para mayor seguridad
 - no mala copas
-- traer pisto al gusto 
+- traer pisto al gusto
 - aburridos en su casa
 - cada quién es responsable de sus pertenencias
 
