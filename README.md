@@ -89,6 +89,10 @@
 </p>
 
 
+<p align="center">
+  <img src="assets/qr/whatsapp-qr.png" alt="QR WhatsApp Grupo Oficial" width="180">
+</p>
+
 ---
 
 ## 🎯 Incluye
@@ -97,7 +101,7 @@
 - **Entretenimiento:** DJ sorpresa, piñatas, karaoke, concursos.
 - **Seguridad:** Revisión al ingreso. Personal dentro y fuera del recinto.
 - **Comodidad:** Baños limpios por género, luz negra, buen sonido, carpa para las lluvias y buen ambiente.
-- **Bebidas:** Mojito de cortesía, agua purificada.
+- **Bebidas:** Mojito de cortesía (sujeto a disponibilidad), agua purificada.
 
 
 ---
