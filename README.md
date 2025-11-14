@@ -1,8 +1,14 @@
 <br><br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=44&duration=2300&pause=800&color=FF4D4D&center=true&vCenter=true&width=900&lines=%F0%9F%8E%84+POSADA+PULL+%26+PONCHE+%F0%9F%8E%84;%F0%9F%92%BB+ROMPEME+LA+RAM+%F0%9F%8E%85;%F0%9F%8E%A7+ARRIMON+DE+BUFFER+%F0%9F%8E%81;%F0%9F%8D%B7+PONCHE+POR+REFERENCIA+%E2%9C%A8" alt="POSADA PULL & PONCHE Typing SVG" />
+  <picture>
+    <!-- Móvil -->
+    <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=28&duration=2300&pause=800&color=FF4D4D&center=true&vCenter=true&width=360&lines=%F0%9F%8E%84+POSADA+PULL+%26+PONCHE+%F0%9F%8E%84;%F0%9F%92%BB+ROMPEME+LA+RAM+%F0%9F%8E%85;%F0%9F%8E%A7+ARRIMON+DE+BUFFER+%F0%9F%8E%81;%F0%9F%8D%B7+PONCHE+POR+REFERENCIA+%E2%9C%A8">
+    <!-- PC -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=44&duration=2300&pause=800&color=FF4D4D&center=true&vCenter=true&width=900&lines=%F0%9F%8E%84+POSADA+PULL+%26+PONCHE+%F0%9F%8E%84;%F0%9F%92%BB+ROMPEME+LA+RAM+%F0%9F%8E%85;%F0%9F%8E%A7+ARRIMON+DE+BUFFER+%F0%9F%8E%81;%F0%9F%8D%B7+PONCHE+POR+REFERENCIA+%E2%9C%A8" alt="POSADA PULL & PONCHE Typing SVG">
+  </picture>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-red?style=for-the-badge"/>
