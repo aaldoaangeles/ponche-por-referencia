@@ -45,32 +45,25 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="https://github.com/aaldoaangeles">
-        <img src="https://avatars.githubusercontent.com/u/138293812?v=4" width="90" height="90" style="border-radius:50%;" alt="aaldoaangeles"/>
-        <br><sub><b>@aaldoaangeles</b></sub>
+      <a href="https://instagram.com/aldo_emilio.j">
+        <img src="assets/organizers/aldo_emilio.j.png" width="100" height="100" alt="@aldo_emilio.j">
+        <br><sub><b>@aldo_emilio.j</b></sub>
       </a>
     </td>
     <td align="center" width="200">
-      <a href="https://github.com/srp-mx">
-        <img src="https://avatars.githubusercontent.com/u/18412292?v=4" width="90" height="90" style="border-radius:50%;" alt="srp-mx"/>
-        <br><sub><b>@srp-mx</b></sub>
+      <a href="https://www.instagram.com/aldo.pvp/">
+        <img src="assets/organizers/aldo.pvp.png" width="100" height="100" alt="@aldo.pvp">
+        <br><sub><b>@aldo.pvp</b></sub>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
-      <a href="https://github.com/arletpinacho">
-        <img src="https://avatars.githubusercontent.com/u/156054381?v=4" width="90" height="90" style="border-radius:50%;" alt="arletpinacho"/>
-        <br><sub><b>@arletpinacho</b></sub>
+      <a href="https://www.instagram.com/arlet.pb/">
+        <img src="assets/organizers/arlet.pb.png" width="100" height="100" alt="@arlet.pb">
+        <br><sub><b>@arlet.pb</b></sub>
       </a>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/aldojurado">
-        <img src="https://avatars.githubusercontent.com/u/54095805?v=4" width="90" height="90" style="border-radius:50%;" alt="aldojurado"/>
-        <br><sub><b>@aldojurado</b></sub>
-      </a>
-    </td>
-  </tr>
 </table>
 
 </div>
