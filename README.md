@@ -64,6 +64,12 @@
         <br><sub><b>@arlet.pb</b></sub>
       </a>
     </td>
+    <td align="center" width="200">
+      <a href="https://www.instagram.com/rbkespinosa/">
+        <img src="assets/organizers/rbkespinosa.png" width="100" height="100" alt="@rbkespinosa">
+        <br><sub><b>@rbkespinosa</b></sub>
+      </a>
+    </td>
 </table>
 
 </div>
