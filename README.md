@@ -70,6 +70,15 @@
         <br><sub><b>@rbkespinosa</b></sub>
       </a>
     </td>
+    </tr>
+    <tr>
+    <td align="center" width="200">
+      <a href="https://www.instagram.com/menezgael/">
+        <img src="assets/organizers/menezgael.png" width="100" height="100" alt="@menezgael">
+        <br><sub><b>@menezgael</b></sub>
+      </a>
+    </td>
+    </tr>
 </table>
 
 </div>
